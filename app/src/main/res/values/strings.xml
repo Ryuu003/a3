@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusLock</string>
+    <string name="service_label">FocusLock Blocker</string>
+    <string name="accessibility_description">FocusLock detecta qué app está abierta y bloquea las que tú elijas para que puedas concentrarte.</string>
+</resources>
